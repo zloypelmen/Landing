@@ -130,7 +130,7 @@ body {}
 }
 
 .login-icon {
-    padding-bottom: 5px;   
+    padding-bottom: 5px;
     width: 17px;
     height: 19px;
     display: flex;
@@ -138,8 +138,8 @@ body {}
 }
 
 .cart-icon {
-    width: 24px;    
-    padding-bottom: 5px;   
+    width: 24px;
+    padding-bottom: 5px;
     height: 24px;
     display: flex;
     align-items: center;
@@ -148,12 +148,12 @@ body {}
 .favorite-icon {
     display: flex;
     align-items: center;
-    padding-bottom: 5px;   
+    padding-bottom: 5px;
     width: 22px;
-    height: 19px;   
+    height: 19px;
 }
 
-.list-right-menu1{
+.list-right-menu1 {
     display: flex;
     flex-direction: row-reverse;
     padding-right: 6.6%;
@@ -172,11 +172,11 @@ body {}
 }
 
 .group-favorite-icon {
-    display: flex; 
-    align-items: center; 
+    display: flex;
+    align-items: center;
 }
 
-.menu-low{
+.menu-low {
     padding-left: 8.4%;
     padding-right: 6.7%;
     display: flex;
@@ -184,35 +184,45 @@ body {}
     align-items: center;
 }
 
-.list-menu-low{
+.list-menu-low {
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-grow: 10000;
     color: #1D1818;
-font-family: PT Sans;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-padding-right: 4.7%;
+    font-family: PT Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-right: 4.7%;
 }
 
-.where-it-item{
+.where-it-item {
     display: flex;
     flex-direction: row-reverse;
     background-color: #384685;
     color: #FFF;
     border-radius: 3%;
     width: 191px;
-height: 60px;
-justify-content: center;
-align-items: center;
-font-family: PT Sans;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    font-family: PT Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 6px;
+}
 
-margin-bottom: 6px;
+.cap{
+    padding-top: 50px;
+    padding-left: 10.6%;
+    padding-right: 6.7%;
+}
+
+.cap img{
+    width: 100%;
+    height: 388.022px;
 }
